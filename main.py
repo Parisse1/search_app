@@ -21,6 +21,7 @@ directory_queue = queue.Queue()
 configurations_window = None
 configurations_tree = None
 
+
 bold_font = ("Helvetica", 10, "bold")
 
 
