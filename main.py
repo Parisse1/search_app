@@ -7,7 +7,7 @@ import threading
 import queue
 import json
 
-# Dichiarare tree come variabile globale
+# Dichiarare tree come variabile globale, CIAOOOOO
 tree = None
 # Variabile per tenere traccia del numero di oggetti nel database
 num_items = 0
